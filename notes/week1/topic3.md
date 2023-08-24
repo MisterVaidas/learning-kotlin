@@ -70,3 +70,7 @@ when {
 ```
 
 These conditional constructs provide flexibility in controlling the behavior of your code based on different conditions. They are fundamental to writing dynamic and interactive programs in Kotlin. Experiment with these constructs in your Kotlin environment to gain a better understanding of how they work.
+
+***
+
+Notes created on 24/08/2023
